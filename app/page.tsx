@@ -20,8 +20,8 @@ const books: BookWithChapters[] = [
     totalDuration: 200,
     createdAt: new Date(),
     chapters: [
-      { id: "c1", bookId: "1", title: "Chapter 1", order: 1, duration: 10, audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", createdAt: new Date() },
-      { id: "c2", bookId: "1", title: "Chapter 2", order: 2, duration: 15, audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3", createdAt: new Date() },
+      { id: "c1", bookId: "1", title: "Chapter 1", order: 1, duration: 10, audioUrl: "/audio/chapter1.wav", createdAt: new Date() },
+      { id: "c2", bookId: "1", title: "Chapter 2", order: 2, duration: 15, audioUrl: "/audio/chapter2.wav", createdAt: new Date() },
     ]
   },
   // Add more books here...
