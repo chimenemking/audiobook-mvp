@@ -15,7 +15,7 @@ const books: BookWithChapters[] = [
     title: "The Art of War",
     author: "Sun Tzu",
     narrator: "John Doe",
-    coverUrl: "https://images.pexels.com/photos/1059116/pexels-photo-1059116.jpg",
+    coverUrl: "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXVkaW98ZW58MHx8MHx8fDA%3D",
     description: "Classic strategy book",
     totalDuration: 200,
     createdAt: new Date(),
